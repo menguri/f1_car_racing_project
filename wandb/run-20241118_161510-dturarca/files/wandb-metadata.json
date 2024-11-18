@@ -1,0 +1,339 @@
+{
+    "os": "Linux-4.18.0-553.5.1.el8_10.x86_64-x86_64-with-glibc2.28",
+    "python": "3.12.4",
+    "heartbeatAt": "2024-11-18T07:15:16.938352",
+    "startedAt": "2024-11-18T07:15:10.959331",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:menguri/F1_CarRacing_Project.git",
+        "commit": "44b598b01025109f88e210ea6e35457ef0bf3fee"
+    },
+    "email": null,
+    "root": "/gpfs/home1/alsrn50/CIDA_LABS/car_racing_project",
+    "host": "n071.hpc",
+    "username": "alsrn50",
+    "executable": "/home1/alsrn50/miniconda3/bin/python",
+    "cpu_count": 56,
+    "cpu_count_logical": 56,
+    "cpu_freq": {
+        "current": 2595.9046607142855,
+        "min": 2600.0,
+        "max": 2600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2370.661,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        },
+        {
+            "current": 2600.0,
+            "min": 2600.0,
+            "max": 2600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 503.7702827453613,
+            "used": 6.545612335205078
+        }
+    },
+    "gpu": "NVIDIA A10",
+    "gpu_count": 4,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA A10",
+            "memory_total": 24146608128
+        },
+        {
+            "name": "NVIDIA A10",
+            "memory_total": 24146608128
+        },
+        {
+            "name": "NVIDIA A10",
+            "memory_total": 24146608128
+        },
+        {
+            "name": "NVIDIA A10",
+            "memory_total": 24146608128
+        }
+    ],
+    "memory": {
+        "total": 1007.5405693054199
+    }
+}
