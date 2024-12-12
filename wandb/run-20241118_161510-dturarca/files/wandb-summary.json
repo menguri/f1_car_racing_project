@@ -1,1 +1,1 @@
-{"Episode": 13, "Average Reward": -35.640872955322266, "Average Loss": 1.0956736850934505, "Average Duration": 497.0, "_timestamp": 1731914646.6854787, "_runtime": 531.244767665863, "_step": 12}
+{"Episode": 50, "Average Reward": 14.587867736816406, "Average Loss": 1.2768063384457218, "Average Duration": 497.0, "_timestamp": 1731915944.8713455, "_runtime": 1829.4306344985962, "_step": 49, "_wandb": {"runtime": 2283}}
