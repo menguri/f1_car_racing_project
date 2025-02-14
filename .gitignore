@@ -130,7 +130,6 @@ ENV/
 env.bak/
 venv.bak/
 *.webm
-*.png
 
 # Spyder project settings
 .spyderproject
@@ -165,7 +164,7 @@ cython_debug/
 
 # 모델은 업로드하지 않는다.
 sh_folder/wandb
-sh_folder/
-*.sh
-model/
+# sh_folder/
+# *.sh
+# model/
 wandb/

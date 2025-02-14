@@ -1,0 +1,33 @@
+start at: Wed Dec 11 00:07:55 KST 2024
+node: n010
+jobid: 
+100 episodes done
+200 episodes done
+300 episodes done
+400 episodes done
+New best model saved at episode 401 with reward: tensor([-7.9964], device='cuda:0')
+New best model saved at episode 407 with reward: tensor([23.7363], device='cuda:0')
+New best model saved at episode 416 with reward: tensor([220.9562], device='cuda:0')
+New best model saved at episode 442 with reward: tensor([233.7135], device='cuda:0')
+New best model saved at episode 443 with reward: tensor([279.9770], device='cuda:0')
+New best model saved at episode 444 with reward: tensor([301.6304], device='cuda:0')
+New best model saved at episode 466 with reward: tensor([352.0995], device='cuda:0')
+New best model saved at episode 482 with reward: tensor([385.3751], device='cuda:0')
+New best model saved at episode 483 with reward: tensor([468.0121], device='cuda:0')
+500 episodes done
+New best model saved at episode 501 with reward: tensor([537.0586], device='cuda:0')
+New best model saved at episode 502 with reward: tensor([678.2281], device='cuda:0')
+600 episodes done
+700 episodes done
+New best model saved at episode 713 with reward: tensor([834.8408], device='cuda:0')
+800 episodes done
+New best model saved at episode 812 with reward: tensor([860.1912], device='cuda:0')
+900 episodes done
+1000 episodes done
+1100 episodes done
+New best model saved at episode 1134 with reward: tensor([874.2845], device='cuda:0')
+1200 episodes done
+1300 episodes done
+New best model saved at episode 1328 with reward: tensor([892.2416], device='cuda:0')
+1400 episodes done
+1500 episodes done
